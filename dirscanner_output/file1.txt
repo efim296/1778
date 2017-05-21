@@ -1,0 +1,4 @@
+/Users/sber-mac/IdeaProjects/dirscanner/directory привет  ку и   new message
+/Users/sber-mac/IdeaProjects/dirscanner/directory1 привет1уикупии куии
+/Users/sber-mac/IdeaProjects/dirscanner/directory bye
+/Users/sber-mac/IdeaProjects/dirscanner/directory1 bye new
