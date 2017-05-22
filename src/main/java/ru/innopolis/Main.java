@@ -3,7 +3,7 @@ package ru.innopolis;
 import java.io.File;
 
 public class Main {
-    private static final String OUTPUT_DIRECTORY = "/Users/sber-mac/IdeaProjects/dirscanner/dirscanner_output";
+    private static final String OUTPUT_DIRECTORY = "C:\\soft\\textii";
 
     public static void main(String[] args) {
         File folder = new File(OUTPUT_DIRECTORY);

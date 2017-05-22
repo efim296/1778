@@ -40,7 +40,6 @@ public class ReaderThread extends Thread {
             e.printStackTrace();
         }
 
-
         //создание
         Map.Entry entry;
         Iterator iterator = messagesMap.entrySet().iterator();
@@ -57,7 +56,6 @@ public class ReaderThread extends Thread {
                 }
             }
 
-
             //запись в файл
             try (Writer out = new BufferedWriter(new OutputStreamWriter(
                     new FileOutputStream(outputFile), "UTF-8"))) {
@@ -65,9 +63,6 @@ public class ReaderThread extends Thread {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
         }
     }
 }
-
-
